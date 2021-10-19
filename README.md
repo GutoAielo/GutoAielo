@@ -5,7 +5,7 @@
 Front-end developer entry level.
 
 #### Fun facts
-- I am a musician and have been a part of a band in the past with @emunhoz. 
+- I´m a drummer and have been a part of a band with @emunhoz called Orckout. Now I´m a drummer of All Is Allowed. 
 
 #### Find me
 
