@@ -7,7 +7,7 @@ Front-end developer entry level.
 ***FOCUS on ReactJS***
 
 #### Fun facts
-- I´m a drummer and have been a part of a band with @emunhoz called Orckout. Now I´m a drummer of All Is Allowed. 
+- I´m a drummer and have been a part of a band with @emunhoz called Orckout. Now I´m playnig the drums on All Is Allowed. 
 
 #### Find me
 
