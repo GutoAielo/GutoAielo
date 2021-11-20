@@ -4,7 +4,7 @@
 
 Front-end developer entry level.
 
-***FOCUS on ReactJS and Tests***
+***FOCUS on ReactJS, Tests and Design UI***
 
 #### Fun facts
 - I´m a drummer and have been a part of a band with [@emunhoz](https://github.com/emunhoz) called Orckout. Now I´m playnig the drums on All Is Allowed. 
