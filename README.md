@@ -2,9 +2,10 @@
 
 #### About me
 
-Front-end developer entry level.
+I´m part of the first class of ImpulsoTec Program SysOPs way.
 
-***FOCUS on HTML, CSS, JS, ReactJS, Tests and Design UI but always learning something new!***
+***FOCUS on Linux, Python, AWS and always learning something new!***
+ **Never forget the Front-end era, maybe one day I return to practice!**
 
 #### Fun facts
 - I´m a drummer and have been a part of a band with [@emunhoz](https://github.com/emunhoz) called Orckout. Now I´m playnig the drums on All Is Allowed. 
